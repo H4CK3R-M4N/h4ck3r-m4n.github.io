@@ -1,6 +1,12 @@
 title: H4CK3R-M4N's Blog
 description: My hacker blog
 
-remote_theme: H4CK3R-M4N/hacker@master
+remote_theme: H4CK3R-M4N/moonwalk@master
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+
+# Optional moonwalk settings
+appearance: auto   # "light", "dark", or "auto"
+date_format: "%B %d, %Y"

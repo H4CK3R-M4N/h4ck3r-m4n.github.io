@@ -1,6 +1,6 @@
-title: H4CK3R-M4N Blog
+title: H4CK3R-M4N's Blog
 description: My hacker blog
 
-remote_theme: H4CK3R-M4N/moonwalk
+remote_theme: H4CK3R-M4N/hacker@master
 plugins:
   - jekyll-remote-theme
